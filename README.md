@@ -15,6 +15,6 @@ Blogs :
 #### BERT :
 Blogs : 
 
-
+[The Illustrated BERT](http://jalammar.github.io/illustrated-bert/)
 [Sentence Embedding by BERT and Sentence Similarity](https://peaceful0907.medium.com/sentence-embedding-by-bert-and-sentence-similarity-759f7beccbf1)
 
