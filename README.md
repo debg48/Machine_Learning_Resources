@@ -1,4 +1,4 @@
-# Macine_Learning_Resources
+# Machine_Learning_Resources
 
 
 ## NLP
