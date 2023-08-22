@@ -3,6 +3,9 @@
 
 ## NLP
 
+Blogs : 
+[NLP's ImageNet moment has arrived](https://www.ruder.io/nlp-imagenet/)
+
 ### Transformer :
 Blogs :
 
